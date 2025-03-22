@@ -26,6 +26,11 @@
 11. [Planning Large Scale Data Migrations to AWS (Korean)](AWS/Migration_Learning_Plan/250313%20대규모%20데이터%20마이그레이션) (2025. 03. 13) 
 12. [Designing Landing Zone Architectures with AWS Control Tower (Korean)](AWS/Migration_Learning_Plan/250313%20Landing%20Zone%20Architectures) (2025. 03. 13)
 
+## Database Learning Plan
+1. AWS Database Offerings (Korean) (2025. 03. 17)
+2. [Amazon DynamoDB](AWS/Database_Learning_Plan/250321%20Amazon%20DynamoDB) (2025. 03. 21)
+3. Amazon DynamoDB Serverless Architectures (2025. 03. 21)
 
 ## 오프라인 공인 교육
 - [Security Engineering on AWS](AWS/250311%20Security%20Engineering%20on%20AWS) (2025. 03. 11)
+- [Architecting on AWS](AWS/250319%20Architecting%20on%20AWS) (2025. 03. 19)
