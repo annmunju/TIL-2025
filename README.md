@@ -28,19 +28,23 @@
 		- [데이터 수명 주기 관리](AWS/Data_Engineering/250325%202_데이터%20스토어%20관리%20-%20데이터%20수명%20주기%20관리) (2025. 03. 25) 
 		- [모델 설계 및 스키마 진화](AWS/Data_Engineering/250325%202_데이터%20스토어%20관리%20-%20데이터%20모델%20설계%20및%20스키마%20진화) (2025. 03. 25) 
 	3) 데이터 운영 및 지원
-		- 데이터 처리 자동화 (2025. 03. 26)
-		- 데이터 분석 (2025. 03. 26)
-		- 데이터 파이프라인 유지 관리 및 모니터링 (2025. 03. 26)
-		- 데이터 품질 보장 (2025. 03. 26)
+		- [데이터 처리 자동화](AWS/Data_Engineering/250326%203_데이터%20운영%20및%20지원%20-%20데이터%20처리%20자동화) (2025. 03. 26)
+		- [데이터 분석](AWS/Data_Engineering/250326%203_데이터%20운영%20및%20지원%20-%20데이터%20분석) (2025. 03. 26)
+		- [데이터 파이프라인 유지 관리 및 모니터링](AWS/Data_Engineering/250326%203_데이터%20운영%20및%20지원%20-%20데이터%20파이프라인%20유지%20관리%20및%20모니터링) (2025. 03. 26)
+		- [데이터 품질 보장](AWS/Data_Engineering/250326%203_데이터%20운영%20및%20지원%20-%20데이터%20품질%20보장) (2025. 03. 26)
 	4) 데이터 보안 및 거버넌스
-		- 인증 메커니즘 적용
-		- 권한 부여 메커니즘 적용
-		- 데이터 암호화 및 마스킹 보장
-		- 감사를 위해 로그 준비
+		- [인증 메커니즘 적용](AWS/Data_Engineering/250326%204_데이터%20보안%20및%20거버넌스%20-%20인증%20메커니즘%20적용) (2025. 03. 26)
+		- [권한 부여 메커니즘 적용](AWS/Data_Engineering/250326%204_데이터%20보안%20및%20거버넌스%20-%20권한%20부여%20메커니즘%20적용) (2025. 03. 26)
+		- [데이터 암호화 및 마스킹 보장](AWS/Data_Engineering/250326%204_데이터%20보안%20및%20거버넌스%20-%20데이터%20암호화%20및%20마스킹%20보장) (2025. 03. 26)
+		- [감사를 위해 로그 준비](AWS/Data_Engineering/250326%204_데이터%20보안%20및%20거버넌스%20-%20감사를%20위해%20로그%20준비) (2025. 03. 26)
+		- [데이터 프라이버시 및 거버넌스 이해](AWS/Data_Engineering/250326%204_데이터%20보안%20및%20거버넌스%20-%20데이터%20프라이버시%20및%20거버넌스%20이해) (2025. 03. 26)
+	- [시험 문제 오개념 정리](AWS/Data_Engineering/시험%20문제%20연습.md) 
 3. 관련 서비스 실습
 	- [Data Warehouse Redshift 실습 후기](AWS/Data_Engineering/250323%20Redshift%20실습%20후기) (2025. 03. 23)
-	- ... 실습 후기 (2025. 03. 25)
-
+	- [빅데이터 플랫폼 EMR 실습 후기](AWS/Data_Engineering/250327%20EMR%20및%20Spark를%20사용한%20데이터%20수집%20및%20변환) (2025. 03. 27)
+	- [데이터 준비 및 통합을 위한 Glue 실습 후기](AWS/Data_Engineering/250327%20DynamoDB%20및 AWS%20Glue를%20사용하는%20데이터%20스토어%20관리) (2025. 03. 27)
+	- [S3 버킷에 데이터 쿼리하기 : Athena 실습 후기](AWS/Data_Engineering/250328%20Athena를%20사용하여%20데이터%20분석) (2025. 03. 28)
+	- [S3 액세스 포인트 및 VPC 엔드포인트를 통한 S3 엑세스 관리](AWS/Data_Engineering/250328%20S3%20액세스%20포인트%20및%20VPC%20엔드포인트를%20통한%20S3%20엑세스%20관리) (2025. 03. 28)
 
 ## Migration Learning Plan
 4. [Introduction to Database Migration (Korean)](AWS/Migration_Learning_Plan/250310%20DB%20Migration) (2025. 03. 10)
@@ -60,10 +64,14 @@
 16. [AWS Database Offerings (Korean)](AWS/Database_Learning_Plan/250322%20AWS%20Database%20Offerings) (2025. 03. 22)
 17. [Amazon DynamoDB](AWS/Database_Learning_Plan/250321%20Amazon%20DynamoDB) (2025. 03. 21)
 18. [Amazon DynamoDB Serverless Architectures](AWS/Database_Learning_Plan/250321%20Amazon%20DynamoDB%20Serverless%20Architectures) (2025. 03. 21)
-19. [Amazon Aurora with MySQL](AWS/Database_Learning_Plan/250323%20Aurora%20with%20MySQL) (2025. 03. )
-20. Amazon Aurora with PostgreSQL (2025. 03. )
+19. [Amazon Aurora with MySQL](250331%20Aurora%20with%20MySQL.md) (2025. 03. 31)
+20. Amazon Aurora with PostgreSQL 
 
 ## 오프라인 공인 교육
 - [Security Engineering on AWS](AWS/250311%20Security%20Engineering%20on%20AWS) (2025. 03. 11)
 - [Architecting on AWS](AWS/250319%20Architecting%20on%20AWS) (2025. 03. 19)
-- Developing on AWS (2025. 03. 24)
+- [Developing on AWS](AWS/250324%20Developing%20on%20AWS) (2025. 03. 24)
+- Running Containers on Amazon Elastic Kubernetes Service 
+	- [1. Kubernetes 기본 개념과 EKS 기본 사항](AWS/250331%20Amazon%20EKS%20(1)) (2025. 03. 31)
+
+# 구현 연습
